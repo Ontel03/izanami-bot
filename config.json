@@ -1,0 +1,11 @@
+{
+  "default_prefix": "q!",
+  "ownerID": "741549223127941170",
+  "COLOR": "#303136", 
+  "Image_welcome" :
+  "https://cdn.glitch.com/02e867ae-7c7c-4637-ace7-66ea251fe9d5%2Fwelcome.png?v=1613195262594", 
+"Image_leave" :
+  "https://cdn.glitch.com/02e867ae-7c7c-4637-ace7-66ea251fe9d5%2Fwelcome.png?v=1613195262594", 
+  "message_welcome" : "Welcome to my server {member}", 
+  "url_uptime": "https://flax-deluxe-brontomerus.glitch.me/"
+}
